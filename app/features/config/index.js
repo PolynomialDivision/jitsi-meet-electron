@@ -13,12 +13,12 @@ export default {
     /**
      * Application name.
      */
-    appName: 'Jitsi Meet',
+    appName: 'Nick Meet',
 
     /**
      * The default server URL of Jitsi Meet Deployment that will be used.
      */
-    defaultServerURL: 'https://meet.jit.si',
+    defaultServerURL: 'https://meet.ffmuc.net',
 
     /**
      * URL to send feedback.
